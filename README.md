@@ -1,26 +1,21 @@
-### Hi, I'm Hallucination (`@maniac8`)
+### Hi, I'm Hallucination (`@maniac8`) 👋
 
-Building **local-first AI agents**, **academic research tools**, and **developer utilities** — focused on clean engineering, offline reliability, and open-source craft.
-
----
-
-#### Focus Areas
-- **Academic & Research Tooling** — Local-first workflows for manuscript reading, structural diffing, fact-conservation auditing, and lossless round-trip editing (LaTeX / Word / Markdown).
-- **AI Agents & Coding Harnesses** — Lightweight agent runtimes, skills, MCP tooling, and verifiable automation pipelines.
-- **Document AI & Local Systems** — High-precision parsing, deterministic tooling, and privacy-first desktop/CLI software.
+Independent open-source builder crafting **local-first tools**, **AI agents**, and **developer utilities** — with a focus on clean engineering, offline reliability, and minimal design.
 
 ---
 
-#### Open-Source Roadmap
+#### 🛠️ Engineering & Stack
 
-| Project | Focus | Status |
+- **AI Agent Tooling & Local-First Apps**: Agent harnesses, MCP workflows, structured document engines, and lightweight desktop/CLI tools
+- **Core Stack**: `Python` · `Java` · `TypeScript / Node.js` · `PyTorch` · `React` · `FastAPI`
+
+#### 🚀 Open-Source Projects
+
+| Project | Description | Status |
 | :--- | :--- | :--- |
-| **PaperDiff Studio (对稿)** | Local-first academic manuscript reader, structural diff & fact-conservation audit workbench for LaTeX / Word / Markdown | Preparing v1.1 open-source release |
-| *More tools in the pipeline* | Agent utilities, research automation & developer workflows | Upcoming |
+| **PaperDiff Studio (对稿)** | 100% local-first manuscript reader, structural diff & fact-conservation audit workbench with lossless LaTeX / Word / Markdown round-trip | Preparing v1.1 release |
+| **AI To-Do List** | Lightweight AI-assisted personal task & daily rhythm manager designed for low-friction execution | In design |
 
 ---
 
-#### Stack & Preferences
-`Python` · `TypeScript` · `React` · `FastAPI` · `LaTeX / OOXML AST` · `AI Agents & MCP` · `Local-First Desktop`
-
-> Curated references & open-source discoveries are organized in my [Star Lists](https://github.com/maniac8?tab=stars).
+> Curated references and tools I follow are organized in [Star Lists](https://github.com/maniac8?tab=stars).
